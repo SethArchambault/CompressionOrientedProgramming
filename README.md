@@ -5,7 +5,9 @@ A web programmer goes on a soul searching journey where he comes face to face wi
 This repo is inspired by Casey Muratori's Compression Oriented Programming methodology.
 https://mollyrocket.com/casey/stream_0019.html
 
-# The Big ie of Web Programming Rant
+The way the code in this repo was coded has been heavily inspired by Casey's compression oriented methodology.
+
+# The Big lie of Web Programming Rant
 
 Here's the big lie of web programming:
 
@@ -17,6 +19,9 @@ If this idea worked, then we wouldn't have a completely new javascript framework
 
 It's embarrassing. 
 
+While many are proclaiming that the web is horrible, and I agree, unfortunately those of us in web tech need to cope with it for now. The way I am coping is by not defaulting to frameworks and abstraction, instead preferring to write simple code and suppliment it with the simplest libraries where possible. 
+
+I also strive to have my code have the fewest "jumps" possible, making it easy to follow and reason about.
 
 # Configuration
 
