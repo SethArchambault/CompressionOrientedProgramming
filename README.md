@@ -7,7 +7,7 @@ https://mollyrocket.com/casey/stream_0019.html
 
 The way the code in this repo was coded has been heavily inspired by Casey's compression oriented methodology.
 
-# The Big lie of Web Programming Rant
+# The Big Lie of Web Programming Rant
 
 Here's the big lie of web programming:
 
