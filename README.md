@@ -2,6 +2,9 @@
 
 A web programmer goes on a soul searching journey where he comes face to face with the big lie of web programming and discovers the truth was deep inside him all along.
 
+Here's a walkthrough of one of the features of this code:
+https://youtu.be/YMQwa36GKpg
+
 This repo is inspired by Casey Muratori's Compression Oriented Programming methodology.
 https://mollyrocket.com/casey/stream_0019.html
 
