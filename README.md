@@ -26,6 +26,10 @@ While many are proclaiming that the web is horrible, and I agree, unfortunately 
 
 I also strive to have my code have the fewest "jumps" possible, making it easy to follow and reason about.
 
+# Update 8/1/2019
+
+This is kinda old now - I would simplify by using the server side language to template out all the html, and then just manipulate it in javascript. Greatly simplifies the process.
+
 # Configuration
 
 Since this project is for demoing work, I've set it up on my Mac. Here's my config if that's helpful.
